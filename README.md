@@ -1,7 +1,7 @@
 StatusBoard-Sloths
 ==================
 
-Your favorite slow ass, no fucks given [creature](http://thechive.files.wordpress.com/2012/09/hanging-on-my-wall-14.jpg) for [Panic's Status Board](http://panic.com/statusboard/).
+Your favorite slow-ass, no-fucks-given [creature](http://thechive.files.wordpress.com/2012/09/hanging-on-my-wall-14.jpg) for [Panic's Status Board](http://panic.com/statusboard/).
 
 - Retina Ready!
 
