@@ -1,4 +1,4 @@
-StatusBoard-Sloths
+Sloths for Status Board
 ==================
 
 Your favorite slow-ass, no-fucks-given [creature](http://thechive.files.wordpress.com/2012/09/hanging-on-my-wall-14.jpg) for [Panic's Status Board](http://panic.com/statusboard/).
@@ -7,13 +7,13 @@ Your favorite slow-ass, no-fucks-given [creature](http://thechive.files.wordpres
 
 Pick one and try it out.
 
-##[Dolla Dolla Bills Ya'll](http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall.html)
+##[Dolla Dolla Bill Ya'll](http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall.html)
 ``` http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall.html ```
 
 ![Dolla Dolla Bills Ya'll Dude](http://i.imgur.com/K46II6I.jpg)
 
 
-##[Dolla Dolla Bills Ya'll (Transparent)](http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall_transparent.html)
+##[Dolla Dolla Bill Ya'll (Transparent)](http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall_transparent.html)
 ``` http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall_transparent.html ```
 
 ![Transparent Dolla Dolla Bills Ya'll Dude](http://i.imgur.com/UcphiUY.png)
