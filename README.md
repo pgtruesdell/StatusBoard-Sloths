@@ -7,20 +7,20 @@ Your favorite slow ass, no fucks given [creature](http://thechive.files.wordpres
 
 Pick one and try it out.
 
-##Dolla Dolla Bills Ya'll
-``` Link ```
+##[Dolla Dolla Bills Ya'll](http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall.html)
+``` http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall.html ```
 
 ![Dolla Dolla Bills Ya'll Dude](http://i.imgur.com/K46II6I.jpg)
 
 
-##Dolla Dolla Bills Ya'll (Transparent)
-``` Link ```
+##[Dolla Dolla Bills Ya'll (Transparent)](http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall_transparent.html)
+``` http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall_transparent.html ```
 
 ![Transparent Dolla Dolla Bills Ya'll Dude](http://i.imgur.com/UcphiUY.png)
 
 
-###Got Money on My Mind
-``` Link ```
+###[Got Money on My Mind](http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall_shades.html)
+``` http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall_shades.html ```
 
 ![Got Money on My Mind](http://i.imgur.com/6ZBZ2Hb.jpg)
 
