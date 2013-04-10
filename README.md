@@ -19,7 +19,7 @@ Pick one and try it out.
 ![Transparent Dolla Dolla Bills Ya'll Dude](http://i.imgur.com/UcphiUY.png)
 
 
-###[Got Money on My Mind](http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall_shades.html)
+##[Got Money on My Mind](http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall_shades.html)
 ``` http://pgtruesdell.github.io/StatusBoard-Sloths/dolladollabillyall_shades.html ```
 
 ![Got Money on My Mind](http://i.imgur.com/6ZBZ2Hb.jpg)
